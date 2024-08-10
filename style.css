@@ -1,0 +1,18 @@
+website/
+├── index.html
+├── portfolio.html
+├── about.html
+├── 404.html
+├── 500.html
+│
+├── images/
+│   └── logo.jpg
+│   └── favicon.png
+├── fonts/
+│   └── FiraSans.ttf
+│   └── FiraSans.otf
+│   └── FiraSans.woff
+├── css/
+│   └── style.css
+└── js/
+    └── script.js
